@@ -11,3 +11,4 @@ Key Features:
 HTML (index.html): The main structure of the webpage.
 CSS (style.css): Stylesheet for styling the HTML elements.
 JavaScript (script.js): Logic for handling game events, checking for a winner, and managing game state.
+http://127.0.0.1:5500/index.html
